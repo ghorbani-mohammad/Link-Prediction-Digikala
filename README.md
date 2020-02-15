@@ -14,5 +14,7 @@ We use three approaches for our purpose:
 
 
 Our results shows that **Machine Learning** approaches has **best performances**
-in this area. We evaluate these approaches by P@K measurement. You can see our
-results in below picture:
+in this area. We evaluate these approaches by P@K measurement. 
+
+For complete checking our result you can read our persian report in report.pdf 
+file.
