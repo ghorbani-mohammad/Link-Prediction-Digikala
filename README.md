@@ -8,10 +8,11 @@ method and get products graph and we do link prediction on this graph.
 
 We use three approaches for our purpose:
 
-Network properties like (Common Neighborhood, Jaccard, Adamic/Adar)
-Matrix completion
-Machine learning methods (SVM, Linear Regression) 
+1. Network properties like (Common Neighborhood, Jaccard, Adamic/Adar)
+1. Matrix completion
+1. Machine learning methods (SVM, Linear Regression) 
 
-Our results shows that Machine Learning approaches has best performances in this
-area. We evaluate these approaches by P@K measurement. You can see our results
-in below picture:
+
+Our results shows that **Machine Learning** approaches has **best performances**
+in this area. We evaluate these approaches by P@K measurement. You can see our
+results in below picture:
